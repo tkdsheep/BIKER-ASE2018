@@ -4,7 +4,9 @@ The dataset and source code for paper "API Method Recommendation without Worryin
 The code is based on Python 2.7.12. The required packages are listed below:
 
 numpy 1.13.3
+
 gensim 3.2.0
+
 nltk 3.2.5
 
 In the main package, running test.py will output the evaluation result of BIKER (method-level recommendation) with our dataset. Running test_api_class.py will output the result of class-level recommendation.
